@@ -1,7 +1,7 @@
 'use strict';
 
 const express = require('express');
-const { getUserProfile } = require('../controllers/userController');
+const getUserProfile = require('../controllers/userController');
 const validateToken = require('../middleware/auth');
 const requireAdmin = require('../middleware/admin');
 

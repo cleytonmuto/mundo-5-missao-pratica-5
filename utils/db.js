@@ -6,8 +6,8 @@ const users = [
 ];
 
 const contracts = [
-  { id: 1, empresa: 'Doma', data_inicio: '2024-01-01', userId: 1 },
-  { id: 2, empresa: 'TechCorp', data_inicio: '2024-02-01', userId: 2 }
+  { id: 1, empresa: 'Estacio', data_inicio: '2025-01-01', userId: 1 },
+  { id: 2, empresa: 'YDUQS', data_inicio: '2025-02-01', userId: 2 }
 ];
 
 module.exports = { users, contracts };

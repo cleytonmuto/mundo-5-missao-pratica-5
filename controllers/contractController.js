@@ -1,5 +1,5 @@
 const db = require('../utils/db');
-const { validateInput } = require('../utils/security');
+const validateInput = require('../utils/security');
 
 // Função para criar contrato
 const createContract = (req, res) => {
